@@ -40,3 +40,6 @@ next-env.d.ts
 
 # el template SÍ se sube (sin valores)
 !.env.example
+
+# backup local de datos reales (para capturas demo)
+.local-backup.json
